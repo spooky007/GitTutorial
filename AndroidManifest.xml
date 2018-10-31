@@ -12,7 +12,9 @@
     <uses-feature />  
     <supports-screens />  
     <compatible-screens />  
-    <supports-gl-texture />  
+    <supports-gl-texture /> 
+ 
+    <!-- Random Comments that are inconsequential -->
 
     <application>
 
