@@ -15,7 +15,7 @@
     <supports-gl-texture /> 
  
     <!-- Random Comments that are inconsequential (1) -->
-
+    <!-- Random Comments that have no effect on end result(3) -->
     <application>
 
         <activity>
